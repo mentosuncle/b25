@@ -1,4 +1,4 @@
 <?php
-header("Location: http://stretchcoach.com/articles/back-pain/");
+header("Location: https://www.overheaddoorofreading.com/");
 die();
 ?>
